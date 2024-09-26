@@ -21,12 +21,12 @@ Our mission is to deliver high-quality, scalable, and user-centric software that
 - **Customer Focus:** Our clients’ success is our top priority.
 
 ## Join Us
-We are always looking for talented individuals who share our passion for technology and innovation. Check out our [Careers Page](https://olfant.com/careers) to see current openings.
+We are always looking for talented individuals who share our passion for technology and innovation. Check out our [Careers Page](https://olfant.com/career.php) to see current openings.
 
 ## Get Involved
 Explore our repositories to see some of our open-source projects. Feel free to contribute or reach out with any questions. We love collaborating with the community!
 
 ## Contact Us
-For inquiries, please visit our [Contact Page](https://olfant.com/contact) or email us at [contact@example.com](mailto:admin@olfant.com).
+For inquiries, please visit our [Contact Page](https://olfant.com/contact.php) or email us at [admin@olfant.com](mailto:admin@olfant.com).
 
 Thank you for visiting our GitHub page. Let's build something amazing together!
